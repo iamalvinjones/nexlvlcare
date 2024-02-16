@@ -1,0 +1,13 @@
+{
+  "name": "Uppercase Text",
+  "description": "Converts text to uppercase",
+  "parameters": [
+    {
+      "name": "input",
+      "type": "string"
+    }
+  ],
+  "result": {
+    "type": "string"
+  }
+}
